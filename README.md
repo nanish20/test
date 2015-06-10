@@ -1,4 +1,13 @@
 # test
-
-
-¿Aqui probamos?
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title></title>
+    </head>
+    <body>
+        <?php
+        // put your code here
+        echo "Hola Susana";
+        ?>
+    </body>
+</html>
